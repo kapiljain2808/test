@@ -2,3 +2,4 @@ First changes
 Second changes in newbranch
 Third changes in mewbrach
 Fourth changes
+Testing the merge in master branch
