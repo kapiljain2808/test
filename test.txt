@@ -6,4 +6,5 @@ Testing the merge in master branch
 in master
 
 
+
 Added in remote /origin/master
